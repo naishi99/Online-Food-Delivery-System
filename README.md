@@ -6,4 +6,8 @@ With this system, the users can order different types of food items in varying q
 The main code file is JavaApplication6.
 Run it on any ide by making a common package with accompanying files.
 
-In case of any queries, ping me!
+**Project Members:**<br/>
+Naishi Shah<br/>
+Devshree Patel<br/>
+Yesha Shastri<br/>
+Muskan Matwani<br/>
